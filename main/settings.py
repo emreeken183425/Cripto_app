@@ -25,7 +25,7 @@ SECRET_KEY =config('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["criyptoapp.herokuapp.com"]
+ALLOWED_HOSTS = []
 
 
 # Application definition
